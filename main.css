@@ -1,0 +1,44 @@
+body
+{
+    background-color: lightblue;
+    margin: 0;
+}
+
+h2{
+    margin: 20px;
+}
+
+.navbar{
+    background-color: white;
+    height: 40%;
+    width: 100%;
+    text-align: right;
+}
+.nav{
+    
+    background-color: blue);
+    padding: 10px 10px;
+    margin: 10px 10px;  
+}
+.signupdiv{
+    border-width: 2px;
+    border-color: black;
+    background-color: white;
+    width: 25%;
+    height: 400px;
+    padding: 30px 30px;
+    margin: 5% auto;
+    
+}
+.signup{
+
+    
+}
+.submit{
+    height: 20%;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(1, 66, 245);
+    border-width: 2px;
+    border-color: black;
+}
